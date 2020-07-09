@@ -1,0 +1,6 @@
+Flask
+tweepy
+PyYAML
+requests
+setuptools
+Unidecode
